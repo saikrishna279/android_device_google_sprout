@@ -1,28 +1,11 @@
 [
 
   {
-    "remote": "vrtoxin-dev",
-    "repository": "android_device_google_sprout-common",
-    "target_path": "device/google/sprout-common",
-    "revision": "mm6.0"
-  },
-  {
-    "remote": "vrtoxin-dev",
     "repository": "android_kernel_mediatek_sprout",
-    "target_path": "kernel/mediatek/sprout",
-    "revision": "mm6.0"
+    "target_path": "kernel/mediatek/sprout"
   },
   {
-    "remote": "vrtoxin-dev",
     "repository": "proprietary_vendor_google",
-    "target_path": "vendor/google",
-    "revision": "mm6.0"
-  },
-  {
-    "remote": "vrtoxin-dev",
-    "repository": "android_packages_apps_FMRadio",
-    "target_path": "packages/apps/FMRadio",
-    "revision": "cm-13.0"
+    "target_path": "vendor/google"
   }
- 
 ]
